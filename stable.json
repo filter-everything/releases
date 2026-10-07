@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "notes": "Nothing new to use in this one: it is the same as 0.2.0, published from the place every update will come from from now on. If you installed 0.2.0, install this version once by hand; after that, updates arrive by themselves.",
+  "pub_date": "2026-10-07T16:51:27Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHIwREVOalBuUWRJRWZaOG1Jd3JwUWsrUnhmOVZGbmt5Uk1vcFRoR0F1NTloN05EcmlyQnk4RWgzM2RIVW5UUUdDcnhaZytzRUZUTGF3Y2prVWpwSlJGVDIvQlpodlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzkwMDMxCWZpbGU6RmlsdGVyIEV2ZXJ5dGhpbmcuYXBwLnRhci5nego1dGcvQmZjSVhYQzlybVNDTWltWlp4MHJ6Y2docUhDTUx3RGdIZWd6QkNlRUVkUmUxYmdOcUtyY2pwcjJvcFgrOGZNb3NOSW00RlVOWXVFcUVxS3ZCdz09Cg==",
+      "url": "https://github.com/filter-everything/releases/releases/download/v0.2.1/Filter-Everything_0.2.1_aarch64.app.tar.gz"
+    }
+  }
+}

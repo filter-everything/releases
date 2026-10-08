@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Nothing new to use in this one: it is the same as 0.2.0, published from the place every update will come from from now on. If you installed 0.2.0, install this version once by hand; after that, updates arrive by themselves.",
-  "pub_date": "2026-10-07T16:51:27Z",
+  "version": "0.2.2",
+  "notes": "Two fixes and nothing new to use. The window that plays a video now keeps to itself information that was meant only for the rest of the app. And if an update ever fails to install, Filter Everything stays where it was instead of going missing; if you press *Restart now* and the update does not go in, it says so.",
+  "pub_date": "2026-10-08T10:08:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHIwREVOalBuUWRJRWZaOG1Jd3JwUWsrUnhmOVZGbmt5Uk1vcFRoR0F1NTloN05EcmlyQnk4RWgzM2RIVW5UUUdDcnhaZytzRUZUTGF3Y2prVWpwSlJGVDIvQlpodlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzkwMDMxCWZpbGU6RmlsdGVyIEV2ZXJ5dGhpbmcuYXBwLnRhci5nego1dGcvQmZjSVhYQzlybVNDTWltWlp4MHJ6Y2docUhDTUx3RGdIZWd6QkNlRUVkUmUxYmdOcUtyY2pwcjJvcFgrOGZNb3NOSW00RlVOWXVFcUVxS3ZCdz09Cg==",
-      "url": "https://github.com/filter-everything/releases/releases/download/v0.2.1/Filter-Everything_0.2.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHIwREVOalBuUWUyZDlML2VueXNLT1NtcGwrMFFtQXZ3LzBsQlNtcElUS3NTL01STG8yMklyM2VZcU5PRUd6dkNEWkJjNnRPWFAvZTVFSUxJV1dhbjNodWo1Wm43ZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU0MDY3CWZpbGU6RmlsdGVyIEV2ZXJ5dGhpbmcuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCi9EQUJqb1ROTTJXTnlsaEdyQzh1UXpZTXhlL3NzRHhJQVBGV2psSGNZVnBCTWpxallOYXVhVXlQS1pKL2FoN1VpdU14VXBLdElUZkYvTGxDcjI4TERnPT0K",
+      "url": "https://github.com/filter-everything/releases/releases/download/v0.2.2/Filter-Everything_0.2.2_aarch64.app.tar.gz"
     }
   }
 }

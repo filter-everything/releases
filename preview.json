@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "Two fixes and nothing new to use. The window that plays a video now keeps to itself information that was meant only for the rest of the app. And if an update ever fails to install, Filter Everything stays where it was instead of going missing; if you press *Restart now* and the update does not go in, it says so.",
-  "pub_date": "2026-10-08T10:08:37Z",
+  "version": "0.3.2",
+  "notes": "The first version signed by us and checked by Apple, so it opens like any app you download, with no trip to Privacy & Security. Because the signature is new, it asks once more for Full Disk Access and for your keychain; allow both and it will not ask again. Everything you listen to is in one place now, *Listen*: the shows you follow, radio stations you keep and episodes you chose, in one player along the bottom that keeps playing while you read, at your speed and with the chapters an episode has. Episodes, and radio in English, can show their words as you hear them, made on your Mac. Videos play in the same player and can float in a corner. Any words you can see can be copied, or put in a note with where they came from. Bookmark anything. Search finds things by their meaning as well as their words. Open a link inside the app, or paste or drop one onto it. Old news gathers under *Earlier*. If the part of the app working in the background stops, it starts again by itself, and a feed that made the app stop is set aside with a notice and *Try it again*, so one bad feed no longer stops the rest. You can pause someone until a time you choose, or block them. Each mode has its own briefing, and the app offers to keep things in the mode they seem to belong to. And from the version that never reached you: a better filter you can choose to download, which lowers what most people would rather not see, such as spam and headlines written to bait you.",
+  "pub_date": "2026-11-21T12:41:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHIwREVOalBuUWUyZDlML2VueXNLT1NtcGwrMFFtQXZ3LzBsQlNtcElUS3NTL01STG8yMklyM2VZcU5PRUd6dkNEWkJjNnRPWFAvZTVFSUxJV1dhbjNodWo1Wm43ZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDU0MDY3CWZpbGU6RmlsdGVyIEV2ZXJ5dGhpbmcuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCi9EQUJqb1ROTTJXTnlsaEdyQzh1UXpZTXhlL3NzRHhJQVBGV2psSGNZVnBCTWpxallOYXVhVXlQS1pKL2FoN1VpdU14VXBLdElUZkYvTGxDcjI4TERnPT0K",
-      "url": "https://github.com/filter-everything/releases/releases/download/v0.2.2/Filter-Everything_0.2.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHIwREVOalBuUVc0S2RwaUxPWmMrNXFUNzI3Kzl0blpSalJsZFVMbDBSTlY2SDFUanN3anZrYTNLeVc4YTVaM3lkZkdIMkhGd0ZpQ2pWOHBsZkZtWm83RTQwSDBxc2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY0ODE3CWZpbGU6RmlsdGVyIEV2ZXJ5dGhpbmcuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yCjlvRlcwSHdDaDNCWUlWMXRCR3VRYmVkZ01XSnV1VzA1cVFER2dUOUZ3THJNNjdDMDZ2MEU4KzZnWlFsUStGdTBmQ3ZaOUZkeVI1WlFFTDh6b1FFckJRPT0K",
+      "url": "https://github.com/filter-everything/releases/releases/download/v0.3.2/Filter-Everything_0.3.2_aarch64.app.tar.gz"
     }
   }
 }
